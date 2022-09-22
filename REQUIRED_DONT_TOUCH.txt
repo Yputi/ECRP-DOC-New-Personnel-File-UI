@@ -1,0 +1,73 @@
+[ol][/ol]
+[/divbox]
+[docsubtitle]Weapon Certifications[/docsubtitle]
+[Divbox=white]
+☐ .50 pistol
+☐ Carbine Rifle
+☐ Pump Shotgun
+☐ SMG
+☐ Smoke Grenade Launcher
+☐ Sniper Rifle
+(Add 🗵 where applicable)
+[/divbox] 
+[ol][/ol]
+[docsubtitle]Vehicle Certifications[/docsubtitle]
+[divbox=white]
+☐ Kamacho Certified 
+☐ Brickade Certified 
+(Add 🗵 where applicable)
+[/divbox]
+[docsubtitle]Pagers[/docsubtitle]
+[divbox=white]
+☐ Pager 
+☐ CERT Pager
+☐ MSI Pager
+(Add 🗵 where applicable)
+[/divbox]
+[docsubtitle]Leave of Absence History[/docsubtitle]
+[divbox=white]
+[ol][/ol]
+Date Requested: DD/MM/YYYY
+Leave Period: DD/MM/YYYY - DD/MM/YYYY
+Reason for LOA: Brief Description of why the officer is going on a LOA
+[ooc]Any OOC reason Please say here.[/ooc]
+Authorising Officer: 
+[/divbox]
+[ol][/ol]
+[docsubtitle]Medical Leave History [/docsubtitle]
+[divbox=white]
+[ol][/ol]
+Date of Incident: DD/MM/YYYY
+Brief Description of Incident: Insert Text Here
+Nature of Injury: [list]Please list Injuries here
+[*]
+[*][/list]
+Length of Medical Leave: DD/MM/YYYY
+Authorising Officer: 
+[url=]Officer's Medical File [/url]
+[/divbox]
+[docsubtitle]Vehicle Registration[/docsubtitle]
+[divbox=white]
+[b]Make/Model:[/b]
+[b]Color:[/b]
+[b]Plate:[/b]
+[/divbox]
+[ol][/ol]
+[docsubtitle]Disciplinary History[/docsubtitle]
+[divbox=white]
+[ol][/ol]
+[color=darkred][b]DD/MM/YYYY[/b] [/color]
+[b]Verbal warning/Written warning/Suspension/Dishonorably discharged[/b]
+On [b][i]DD/MM/YYYY[/i][/b] (at time if known), (description of the event.)
+[hr][/hr]
+The punishments are as follows:
+[list][*]
+[*]
+[*]
+[/list][/divbox]
+[docsubtitle]Rank History[/docsubtitle]
+[divbox=white]
+[ol][/ol]
+[b]DD/MM/YYYY[/b] | OLD RANK ⟶ NEW RANK by OFFICER
+[color=white].[/color]
+[/divbox]
